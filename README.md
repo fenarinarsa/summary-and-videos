@@ -24,7 +24,7 @@ Language: 6502 asm
 Released at Revision 2019  
 https://github.com/fenarinarsa/Latecomer
 
-## Video
+### Video
 Final version  
 https://www.youtube.com/watch?v=qTsfvtCmsl4
 
@@ -33,10 +33,10 @@ https://www.youtube.com/watch?v=qTsfvtCmsl4
 Language: C#, 6502 asm  
 https://github.com/fenarinarsa/FYM
 
-## Blog post
+### Blog post
 https://www.fenarinarsa.com/?p=1454
 
-## Videos
+### Videos
 FYM player  
 https://www.youtube.com/watch?v=QmqyOMQcxWE
 
@@ -48,7 +48,7 @@ https://www.youtube.com/watch?v=vp0lIklw_KM
 Language: C, C++  
 https://github.com/Fr3nchT0uch/AppleWin
 
-## Videos
+### Videos
 Extended debugger features: multiple monitoring in realtime, cycle-accurate  
 https://www.youtube.com/watch?v=qeGNWVznZTc
 
@@ -58,7 +58,7 @@ https://www.youtube.com/watch?v=JT5-qlj1kRc
 # VR videos
 **VR180 video tests**
 
-## Videos
+### Videos
 (to be watched with a VR headset)  
 Devil Ko²  
 https://www.youtube.com/watch?v=6jKNTS2Frmk
@@ -70,6 +70,12 @@ https://www.youtube.com/watch?v=kvt4zmuM8qM
 Nearly all tools to handle the video production and video broadcast of a TV channel during 10 years  
 Language: C#, Avisynth, Linux scripts  
 
-## Video
+### Video
+All production tools  
 https://www.youtube.com/watch?v=CSCaLHJ4S1U
 
+The broadcast servers  
+https://www.youtube.com/watch?v=RTv6dnKWugQ&t=171s
+
+Moving servers  
+https://www.youtube.com/watch?v=i4QnlG43rFU
