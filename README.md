@@ -83,25 +83,25 @@ https://www.youtube.com/watch?v=i4QnlG43rFU
 # Directing
 For TV
 
-Temps Réel - Breakpoint 2008 (Nolife)
+Temps Réel - Breakpoint 2008 (Nolife)  
 https://www.youtube.com/watch?v=UCzP9Wusp_Y
 
-Mémoire Vive - Spécial Nadia (Game One)
+Mémoire Vive - Spécial Nadia (Game One)  
 https://www.youtube.com/watch?v=s0uEViI_rAE
 
-Mémoire Vive - Atari ST demoscene (Game One)
+Mémoire Vive - Atari ST demoscene (Game One)  
 https://www.youtube.com/watch?v=2MKSOs21sfY
 
 # Video tape preservation
 Betacam SP and VHS preservation
 
-Sony PlayStation - Pre-Launch promotion video (1995) (Betacam SP)
+Sony PlayStation - Pre-Launch promotion video (1995) (Betacam SP)  
 https://www.youtube.com/watch?v=wWbfrx_uKYs&list=PL0BdgJ1_G66M7GCu4nTUErXSG0QLPSC5F&index=37
 
-Cyberflash (Betacam SP)
+Cyberflash (Betacam SP)  
 https://www.youtube.com/watch?v=XtxPEM6FAgw
 
-Dan & Danny (VHS)
+Dan & Danny (VHS)  
 https://www.youtube.com/watch?v=q9qdXyVt75g
 
 
