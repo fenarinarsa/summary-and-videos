@@ -71,7 +71,7 @@ Nearly all tools to handle the video production and video broadcast of a TV chan
 Language: C#, Avisynth, Linux scripts  
 
 ### Video
-All production tools  
+All production tools developped in-house   
 https://www.youtube.com/watch?v=CSCaLHJ4S1U
 
 Broadcast servers  
