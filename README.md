@@ -74,7 +74,7 @@ Language: C#, Avisynth, Linux scripts
 All production tools  
 https://www.youtube.com/watch?v=CSCaLHJ4S1U
 
-The broadcast servers  
+Broadcast servers  
 https://www.youtube.com/watch?v=RTv6dnKWugQ&t=171s
 
 Moving servers  
