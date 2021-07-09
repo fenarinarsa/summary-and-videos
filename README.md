@@ -9,11 +9,11 @@ Language: C#, 68000 asm
 Released at Sillyventure 2017  
 https://github.com/fenarinarsa/bad_apple
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=AvRzV5gn0U8" target="_blank">Color mode version (320x200 4bits)  
+<a href="https://peertube.fenarinarsa.com/videos/watch/e5b2396d-faea-458f-8d65-a2156c566058" target="_blank">Color mode version (320x200 4bits)  
 <img src="http://img.youtube.com/vi/AvRzV5gn0U8/0.jpg" width="240" height="180" border="10" /></a>  
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=aIeAIgGnx0M" target="_blank">Monochrome mode version (640x400 1bit)  
+<a href="https://peertube.fenarinarsa.com/videos/watch/9a459472-c03f-49e2-aba7-fd4db58b9564" target="_blank">Monochrome mode version (640x400 1bit)  
 <img src="http://img.youtube.com/vi/aIeAIgGnx0M/0.jpg" width="240" height="180" border="10" /></a>  
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=_j66Nu7BoCE" target="_blank">Making-of  
+<a href="https://peertube.fenarinarsa.com/videos/watch/fbcee9ec-840d-4e82-a9b2-b4718ad96879" target="_blank">Making-of  
 <img src="http://img.youtube.com/vi/_j66Nu7BoCE/0.jpg" width="240" height="180" border="10" /></a>  
 
 ## Latecomer
