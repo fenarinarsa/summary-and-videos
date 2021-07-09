@@ -76,9 +76,9 @@ For TV
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=UCzP9Wusp_Y" target="_blank">Temps Réel - Breakpoint 2008 (Nolife)  
 <img src="http://img.youtube.com/vi/UCzP9Wusp_Y/0.jpg" width="240" height="180" border="10" /></a>  
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=s0uEViI_rAE" target="_blank">Mémoire Vive - Spécial Nadia (Game One)  
+<a href="https://peertube.fenarinarsa.com/videos/watch/7a79b01e-a5f3-435e-8992-3aec5f84f100" target="_blank">Mémoire Vive - Spécial Nadia (Game One)  
 <img src="http://img.youtube.com/vi/s0uEViI_rAE/0.jpg" width="240" height="180" border="10" /></a>  
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=2MKSOs21sfY" target="_blank">Mémoire Vive - Atari ST demoscene (Game One)   
+<a href="https://peertube.fenarinarsa.com/videos/watch/25d0a59e-1567-496a-a6d2-076e8e1d6d00" target="_blank">Mémoire Vive - Atari ST demoscene (Game One)   
 <img src="http://img.youtube.com/vi/2MKSOs21sfY/0.jpg" width="240" height="180" border="10" /></a>  
 
 # VIDEO
