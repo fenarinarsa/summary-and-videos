@@ -22,7 +22,7 @@ Language: 6502 asm
 Released at Revision 2019  
 https://github.com/fenarinarsa/Latecomer
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=qTsfvtCmsl4" target="_blank">Final version  
+<a href="https://peertube.fenarinarsa.com/videos/embed/f532ad5d-ab56-4789-84e4-df7268f08c11" target="_blank">Final version  
 <img src="http://img.youtube.com/vi/qTsfvtCmsl4/0.jpg" width="240" height="180" border="10" /></a>  
 
 # RETRODEV
